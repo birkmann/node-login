@@ -4,7 +4,10 @@
 	"description": "A basic example using node.js and Passport",
 	"main": "app.js",
 	"dependencies": {
-		"express": "latest"
+		"express": "latest",
+		"mongojs": "latest",
+		"socket.io": "latest",
+		"passport": "latest"
 	},
 	"repositiory": "git",
 	"url": "https://github.com/birkmann/node-login"
